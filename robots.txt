@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dib3474.github.io/sitemap-index.xml
